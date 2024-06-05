@@ -1,0 +1,50 @@
+<Gradovi>
+    <Grad>
+        <ImeGrada>Augsburg</ImeGrada>
+        <Drzava>Njemačka</Drzava>
+        <Kontinent>Europa</Kontinent>
+        <BrojStan>301 033</BrojStan>
+    </Grad>
+    <Grad>
+        <ImeGrada>Brisbane</ImeGrada>
+        <Drzava>Australija</Drzava>
+        <Kontinent>Australija</Kontinent>
+        <BrojStan>2 628 023</BrojStan>
+    </Grad>
+    <Grad>
+        <ImeGrada>Juneau</ImeGrada>
+        <Drzava>SAD (Alaska)</Drzava>
+        <Kontinent>Sjeverna Amerika</Kontinent>
+        <BrojStan>32 255</BrojStan>
+    </Grad>
+    <Grad>
+        <ImeGrada>Lima</ImeGrada>
+        <Drzava>Peru</Drzava>
+        <Kontinent>Južna Amerika</Kontinent>
+        <BrojStan>11 283 787</BrojStan>
+    </Grad>
+    <Grad>
+        <ImeGrada>Marseille</ImeGrada>
+        <Drzava>Francuska</Drzava>
+        <Kontinent>Europa</Kontinent>
+        <BrojStan>870 321</BrojStan>
+    </Grad>
+    <Grad>
+        <ImeGrada>Pula</ImeGrada>
+        <Drzava>Hrvatska</Drzava>
+        <Kontinent>Europa</Kontinent>
+        <BrojStan>52 220</BrojStan>
+    </Grad>
+    <Grad>
+        <ImeGrada>Rio de Janiero</ImeGrada>
+        <Drzava>Brazil</Drzava>
+        <Kontinent>Južna Amerika</Kontinent>
+        <BrojStan>12 280 702</BrojStan>
+    </Grad>
+    <Grad>
+        <ImeGrada>Zurich</ImeGrada>
+        <Drzava>Švicarska</Drzava>
+        <Kontinent>Europa</Kontinent>
+        <BrojStan>415 367</BrojStan>
+    </Grad>
+</Gradovi>
